@@ -13,11 +13,17 @@ Browser game web page created using HTML5 and JavaScript.
 # Visit Site
 ----
 
+https://cs50c-week14.celestemaldonad.repl.co/
+
+
 
 
 # Screenshots
 #### Progress images
 
+<img width="302" alt="flappy-home" src="https://user-images.githubusercontent.com/69225402/117094451-af7da700-ad18-11eb-9efd-94dcadb768e5.png">
+
+<img width="757" alt="flappy-home2" src="https://user-images.githubusercontent.com/69225402/117094453-b0163d80-ad18-11eb-93a9-a0dc64ed658d.png">
 
 
 # Summary
