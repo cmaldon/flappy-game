@@ -1,6 +1,6 @@
 # flappy-game
 ----
-Game created using HTML5 and JavaScript.
+Browser game web page created using HTML5 and JavaScript.
 
 -----------------
 
