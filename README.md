@@ -7,6 +7,7 @@ Browser game web page created using HTML5 and JavaScript.
 <!-- <h2 align="center">____________________</h2> -->
 
 <!-- <h4 align="center">________________________</h4> -->
+
 ----
 
 
@@ -50,7 +51,8 @@ https://cs50c-week14.celestemaldonad.repl.co/
 
 
 # Contributors
-<h4>Thank you</h4>
+
+<h3>Thank you</h3>
 
 ----
 
