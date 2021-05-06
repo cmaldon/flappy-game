@@ -1,5 +1,4 @@
 # flappy-game
-----
 Browser game web page created using HTML5 and JavaScript.
 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -8,13 +7,14 @@ Browser game web page created using HTML5 and JavaScript.
 <!-- <h2 align="center">____________________</h2> -->
 
 <!-- <h4 align="center">________________________</h4> -->
+----
 
 
 # Visit Site
-----
 
 https://cs50c-week14.celestemaldonad.repl.co/
 
+----
 
 
 
@@ -25,19 +25,29 @@ https://cs50c-week14.celestemaldonad.repl.co/
 
 <img width="757" alt="flappy-home2" src="https://user-images.githubusercontent.com/69225402/117094453-b0163d80-ad18-11eb-93a9-a0dc64ed658d.png">
 
+----
+
 
 # Summary
 ### -  *[Contributors](#Contributors)*
 ### -  *[License](#License)*
 
+----
+
 
 # Contributors
+<table class="example1" style="background-color:transparent;border-collapse:collapse;">
+<tr>
+<td style="border:1px solid black;padding:5px;width:50%;text-align:center;">Celeste Maldonado<br>
+<image src="https://contrib.rocks/image?repo=cmaldon/pro_mern_stack"></image></td>
+<td style="border:1px solid black;padding:5px;width:50%;text-align:center;"><a href="https://github.com/cmaldon">github.com/cmaldon</a><br>
+<a href="mailto: cmaldonado@bearcubs.santarosa.edu">email me</a></td>
+</tr>
+</table>
 
-[![](https://contrib.rocks/image?repo=cmaldon/flappy-game)](https://github.com/cmaldon/flappy-game/graphs/contributors)
+----
 
-##### Made with [contributors-img](https://contrib.rocks).
 
------------------
 # License
 #### MIT © cmaldon
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -48,5 +58,5 @@ cmaldonado@bearcubs.santarosa.edu
 ______________________
 ``` 
 
-
+----
 
